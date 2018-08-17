@@ -1,0 +1,134 @@
+Interpretations of Dynamic Features:
+
+There are 6 sets of features
+1-day of hospital stay (only one feature, no details)
+2-Laboratory items
+3-Chart items
+4-Services
+5-Medications
+6-Microbiology items
+
+
+Set 2:
+;51221;"HEMATOCRIT";"BLOOD";"HEMATOLOGY";"4544-3"
+;51222;"HEMOGLOBIN";"BLOOD";"HEMATOLOGY";"718-7"
+;51248;"MCH";"BLOOD";"HEMATOLOGY";"785-6"
+;51249;"MCHC";"BLOOD";"HEMATOLOGY";"786-4"
+;51250;"MCV";"BLOOD";"HEMATOLOGY";"787-2"
+;51265;"PLATELET COUNT";"BLOOD";"HEMATOLOGY";"777-3"
+;51277;"RDW";"BLOOD";"HEMATOLOGY";"788-0"
+;51279;"RED BLOOD CELLS";"BLOOD";"HEMATOLOGY";"789-8"
+;51301;"WHITE BLOOD CELLS";"BLOOD";"HEMATOLOGY";"804-5"
+;50868;"ANION GAP";"BLOOD";"CHEMISTRY";"1863-0"
+;50882;"BICARBONATE";"BLOOD";"CHEMISTRY";"1963-8"
+;50893;"CALCIUM, TOTAL";"BLOOD";"CHEMISTRY";"2000-8"
+;50902;"CHLORIDE";"BLOOD";"CHEMISTRY";"2075-0"
+;50912;"CREATININE";"BLOOD";"CHEMISTRY";"2160-0"
+;50931;"GLUCOSE";"BLOOD";"CHEMISTRY";"2345-7"
+;50960;"MAGNESIUM";"BLOOD";"CHEMISTRY";"2601-3"
+;50970;"PHOSPHATE";"BLOOD";"CHEMISTRY";"2777-1"
+;50971;"POTASSIUM";"BLOOD";"CHEMISTRY";"2823-3"
+;50983;"SODIUM";"BLOOD";"CHEMISTRY";"2951-2"
+;51006;"UREA NITROGEN";"BLOOD";"CHEMISTRY";"3094-0"
+
+
+Set 3:
+51;"Arterial BP [Systolic]"
+52;"Arterial BP Mean"
+113;"CVP"
+184;"Eye Opening"
+211;"Heart Rate"
+454;"Motor Response"
+455;"NBP [Systolic]"
+456;"NBP Mean"
+618;"Respiratory Rate"
+646;"SpO2"
+678;"Temperature F"
+679;"Temperature F (calc)"
+723;"Verbal Response"
+5813;"ABP Alarm [Low]"
+5815;"HR Alarm [Low]"
+5817;"NBP Alarm [Low]"
+5819;"Resp Alarm [Low]"
+5820;"SpO2 Alarm [Low]"
+8368;"Arterial BP [Diastolic]"
+8441;"NBP [Diastolic]"
+8547;"ABP Alarm [High]"
+8549;"HR Alarm [High]"
+8551;"NBP Alarm [High]"
+8553;"Resp Alarm [High]"
+8554;"SpO2 Alarm [High]"
+220045;"Heart Rate"
+220046;"Heart rate Alarm - High"
+220047;"Heart Rate Alarm - Low"
+220050;"Arterial Blood Pressure systolic"
+220051;"Arterial Blood Pressure diastolic"
+220052;"Arterial Blood Pressure mean"
+220056;"Arterial Blood Pressure Alarm - Low"
+220058;"Arterial Blood Pressure Alarm - High"
+220074;"Central Venous Pressure"
+220179;"Non Invasive Blood Pressure systolic"
+220180;"Non Invasive Blood Pressure diastolic"
+220181;"Non Invasive Blood Pressure mean"
+220210;"Respiratory Rate"
+220277;"O2 saturation pulseoxymetry"
+220739;"GCS - Eye Opening"
+223751;"Non-Invasive Blood Pressure Alarm - High"
+223752;"Non-Invasive Blood Pressure Alarm - Low"
+223761;"Temperature Fahrenheit"
+223769;"O2 Saturation Pulseoxymetry Alarm - High"
+223770;"O2 Saturation Pulseoxymetry Alarm - Low"
+223900;"GCS - Verbal Response"
+223901;"GCS - Motor Response"
+224161;"Resp Alarm - High"
+224162;"Resp Alarm - Low"
+
+Set 4:
+CMED	Cardiac Medical - for non-surgical cardiac related admissions
+CSURG	Cardiac Surgery - for surgical cardiac admissions
+DENT	Dental - for dental/jaw related admissions
+ENT	Ear, nose, and throat - conditions primarily affecting these areas
+GU	Genitourinary - reproductive organs/urinary system
+GYN	Gynecological - female reproductive systems and breasts
+MED	Medical - general service for internal medicine
+NB	Newborn - infants born at the hospital
+NBB	Newborn baby - infants born at the hospital
+NMED	Neurologic Medical - non-surgical, relating to the brain
+NSURG	Neurologic Surgical - surgical, relating to the brain
+OBS	Obstetrics - conerned with childbirth and the care of women giving birth
+ORTHO	Orthopaedic - surgical, relating to the musculoskeletal system
+OMED	Orthopaedic medicine - non-surgical, relating to musculoskeletal system
+PSURG	Plastic - restortation/reconstruction of the human body (including cosmetic or aesthetic)
+PSYCH	Psychiatric - mental disorders relating to mood, behaviour, cognition, or perceptions
+SURG	Surgical - general surgical service not classified elsewhere
+TRAUM	Trauma - injury or damage caused by physical harm from an external source
+TSURG	Thoracic Surgical - surgery on the thorax, located between the neck and the abdomen
+VSURG	Vascular Surgical - surgery relating to the circulatory system
+
+
+Set 5:
+high_antib: High antibotics
+antib: Antibiotics
+h2: H2 antagonists
+ppi: Proton Pump inhibitors
+
+
+Set6:
+YEAST
+STAPHYLOCOCCUS  COAGULASE NEGATIVE
+STAPH AUREUS COAG +
+GRAM NEGATIVE ROD(S)
+PSEUDOMONAS AERUGINOSA
+KLEBSIELLA PNEUMONIAE
+ENTEROCOCCUS SP.
+ESCHERICHIA COLI
+PROTEUS MIRABILIS
+ENTEROBACTER CLOACAE
+KLEBSIELLA OXYTOCA
+ACINETOBACTER BAUMANNII
+SERRATIA MARCESCENS
+ENTEROBACTER AEROGENES
+
+
+
+

@@ -1,0 +1,16 @@
+1 normalized length 
+2 normalized time Of First recording
+3 normalzied time Of Last recording
+4 avg recording
+5 std of recordings
+6 max recording
+7 min recording
+8 normalized location of Min
+9 normalized location of Max
+10 last recording 
+11 linear avg
+12 quadratic  avg
+13 absolute Differences
+14 normalized number of increase trend
+15 normalized number of decrease trend
+16 fluctuation ratio
